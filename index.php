@@ -15,6 +15,6 @@
             <!--Creates a drop down list-->$_COOKIE
             Gender:<select name="gneder">
                 <option value="M">Male</option>
-                <option value ="F">Female</option>
+                <option value ="F">Femvale</option>
     </body>
 </html>
