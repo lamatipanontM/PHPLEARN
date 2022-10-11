@@ -13,7 +13,7 @@
             House:<input type="text" name="house"><br>
             Year:<input type="text" name="year"><br>
             <!--Creates a drop down list-->$_COOKIE
-            Gender:<select name="gneder">
+            Gender:<select name="gender">
                 <option value="M">Male</option>
                 <option value ="F">Femvale</option>
     </body>
